@@ -1,4 +1,4 @@
-Console.WriteLine("Введите оценку 1-5: ");
+﻿Console.WriteLine("Введите оценку 1-5: ");
 int a = int.Parse(Console.ReadLine());
 switch (a)
 {
